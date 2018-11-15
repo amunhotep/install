@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Oranienbaum (TrueType)"="Oranienbaum.ttf"
+"Playfair Display SC Bold (TrueType)"="PlayfairDisplaySCBold.ttf"
+"Playfair Display SC Bold Italic (TrueType)"="PlayfairDisplaySCBoldItalic.ttf"
+"Playfair Display SC Italic (TrueType)"="PlayfairDisplaySCItalic.ttf"
+"Playfair Display SC Regular (TrueType)"="PlayfairDisplaySCRegular.ttf"

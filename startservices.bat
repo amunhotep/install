@@ -1,0 +1,2 @@
+net start FirebirdServerDefaultInstance
+net start WorkControlService
